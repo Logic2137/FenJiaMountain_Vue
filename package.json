@@ -11,6 +11,9 @@
     "@element-plus/icons-vue": "^2.3.1",
     "core-js": "^3.8.3",
     "element-plus": "^2.8.6",
+    "element-ui": "^2.15.14",
+    "install": "^0.13.0",
+    "npm": "^10.9.0",
     "vue": "^3.2.13"
   },
   "devDependencies": {

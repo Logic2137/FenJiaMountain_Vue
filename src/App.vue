@@ -14,7 +14,7 @@ export default {
 };
 </script> -->
 
-<template>
+<!-- <template>
   <div id="app">
     <HomePage />
   </div>
@@ -28,7 +28,7 @@ export default {
     HomePage,
   },
 };
-</script>
+</script> -->
 
 
 <!-- <style>
@@ -41,3 +41,22 @@ export default {
   margin-top: 60px;
 }
 </style> -->
+
+
+
+
+<template>
+  <div id="app">
+    <MatrixPlatform />
+  </div>
+</template>
+
+<script>
+import MatrixPlatform from './components/MatrixPlatform.vue';
+
+export default {
+  components: {
+    MatrixPlatform,
+  },
+};
+</script>
